@@ -13,6 +13,7 @@ export function init() {
     0.01,
     10
   );
+
   camera.position.z = 5;
   camera.rotation.z = 1;
   // getting the scene from the threeJS
